@@ -21,7 +21,7 @@ Decimals are recognised as numbers with a decimal point. Decimals extend strings
 #### Structure
 
 ```
-if: <condition>
+if: <boolean>
 then: <method>
 else: <method> (Optional)
 ```
@@ -32,39 +32,48 @@ A multi conditional can have additional conditions, each with an associated meth
 
 #### Structure
 
-**if:** condition
+```
+if <boolean>
+then <method>
+else if <boolean>
+then <method>
+else <method> (Optional)
+```
 
-**then:** method
+### 2.2 Conditional Loop
 
-**else if:** condition
+#### Structure
 
-**then:** method
+```
+while <boolean>
+do <method>
+```
 
-**else:** method (Optional)
+### 2.3 Repeat Loop
 
-### 2.2 While Loop
+#### Structure
 
-#### Components
+```
+repeat <integer> 
+times <method>
+```
 
-* Condition
-* Method
+### 2.4 Iterate Loop
 
-### 2.3 For Loop
+#### Structure
 
-#### Components
+```
+with <data-structure>
+do <method>
+```
 
-* Initialisation
-* Condition
-* Increment
-* Method
+## 3 Actions
 
-## 3 Methods
+An action takes an input and perform an action, either changing the internal state of the program or producing I/O. Methods don't return outputs.
 
-A method takes an input and performs actions, either changing the internal state of the program or producing I/O. Methods don't return outputs.
+## 4 Functions
 
-### 4 Functions
-
-A function takes an input and returns outputs. Functions aren't allowed to change the state of the program.
+A function takes an input and returns outputs. Functions aren't allowed to change the state of the program or produce I/O.
 
 ## 5 Data Structures
 
