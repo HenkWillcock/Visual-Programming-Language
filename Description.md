@@ -18,15 +18,27 @@ Decimals are recognised as numbers with a decimal point. Decimals extend strings
 
 ### 2.1 Conditional
 
-#### Components
+#### Structure
 
-* Condition
-* Method
-* Else Method (Optional)
+```
+**if:** Condition
+**then:** Method
+**else:** Default Method (Optional)
+```
 
-#### Multi Conditional
+### 2.2 Multi Conditional
 
 A multi conditional can have additional conditions, each with an associated method.
+
+#### Structure
+
+```
+**if:** Condition
+**then:** Method
+**else if:** Condition
+**then:** Method
+**else:** Default Method (Optional)
+```
 
 ### 2.2 While Loop
 
