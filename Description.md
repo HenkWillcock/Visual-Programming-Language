@@ -20,18 +20,38 @@ In VPL, everything is an object. This includes basic data types, data structures
 
 #### 1.3.2 Set
 
-### 1.4 Functions
+### 1.4 Function
 
-### 1.5 Methods
+A function takes an input and returns outputs. Functions aren't allowed to change the state of the program.
+
+#### Components
+
+* Inputs
+* Statements
+* Outputs
+
+### 1.5 Method
+
+A method takes an input and changes the state of the program. Methods don't return outputs.
+
+#### Components
+
+* Inputs
+* Statements
 
 ## 2 Blocks
 
-### 2.1 If Statement
+### 2.1 Conditional
 
 #### Components
 
 * Condition
 * Method
+* Else Method (Optional)
+
+#### Multi Conditional
+
+A multi conditional can have additional conditions, each with an associated method.
 
 ### 2.2 While Loop
 
@@ -40,4 +60,12 @@ In VPL, everything is an object. This includes basic data types, data structures
 * Condition
 * Method
 
-### 2.3 
+### 2.3 For Loop
+
+#### Components
+
+* Initialisation
+* Condition
+* Increment
+* Method
+
