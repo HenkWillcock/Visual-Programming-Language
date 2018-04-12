@@ -20,11 +20,9 @@ Decimals are recognised as numbers with a decimal point. Decimals extend strings
 
 #### Structure
 
-```
-**if:** Condition
-**then:** Method
-**else:** Default Method (Optional)
-```
+**if:** <condition>
+**then:** <method>
+**else:** <method> (Optional)
 
 ### 2.2 Multi Conditional
 
@@ -32,13 +30,11 @@ A multi conditional can have additional conditions, each with an associated meth
 
 #### Structure
 
-```
-**if:** Condition
-**then:** Method
-**else if:** Condition
-**then:** Method
-**else:** Default Method (Optional)
-```
+**if:** <condition>
+**then:** <method>
+**else if:** <condition>
+**then:** <method>
+**else:** <method> (Optional)
 
 ### 2.2 While Loop
 
