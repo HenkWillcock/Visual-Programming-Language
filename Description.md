@@ -10,6 +10,31 @@ Any string of characters is a string.
 
 Integers are recognised as numbers with no decimal point. Integers extend strings, so anything a string can do an integer can also do.
 
+#### 1.2.1 Functions
+
+##### Addition
+
+`<integer> + <integer> -> <integer>`
+
+##### Subtraction
+
+`<integer> - <integer> -> <integer>`
+  
+##### Multiplication
+
+`<integer> * <integer> -> <integer>`
+  
+#### 1.2.2 Methods
+
+##### Add
+`+ <integer>`
+
+##### Subtract
+`- <integer>`
+
+##### Multiply
+`* <integer>`
+
 ### 1.3 Floating Point
 
 Decimals are recognised as numbers with a decimal point. Decimals extend strings, so anything a string can do a decimal can also do.
