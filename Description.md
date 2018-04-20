@@ -18,5 +18,17 @@
 -      <td>Install using commandline after Node.js is installed.</td>
 -      <td>Required for developing Ember.js applications.</td>
 -    </tr>
+     <tr>
+-      <td>Ember.js Training</td>
+-      <td>
+         Team members who are less knowledgeable with Ember.js will mostly self teach using YouTube videos, and tutorials on            the Ember.js website.
+       </td>
+-      <td>Required for developing Ember.js applications.</td>
+-    </tr>
+     <tr>
+-      <td>Ember.js Training</td>
+-      <td>Team members who are less knowledgeable with Ember.js will mostly self teach using YouTube videos, and tutorials on the Ember.js website.</td>
+-      <td>Required for developing Ember.js applications.</td>
+-    </tr>
 -  </tbody>
 -</table>
