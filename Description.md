@@ -30,5 +30,10 @@
 -      <td>Two team members already have Sketch licences, the team will use those.</td>
 -      <td>Useful for creating website wireframes for design.</td>
 -    </tr>
+     <tr>
+-      <td>Bootstrap</td>
+-      <td>Download for free.</td>
+-      <td>Useful for developing Ember.js applications.</td>
+-    </tr>
 -  </tbody>
 -</table>
