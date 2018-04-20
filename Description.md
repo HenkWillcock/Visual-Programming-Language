@@ -15,7 +15,7 @@
 -    </tr>
 -    <tr>
 -      <td>Ember.js</td>
--      <td>Install using commandline after Node.js is installed.</td>
+-      <td>Install using command line once Node.js is installed.</td>
 -      <td>Required for developing Ember.js applications.</td>
 -    </tr>
      <tr>
@@ -33,7 +33,7 @@
      <tr>
 -      <td>Bootstrap</td>
 -      <td>Download for free.</td>
--      <td>Useful for developing Ember.js applications.</td>
+-      <td>Useful for developing Ember.js applications, particularly for aesthetics.</td>
 -    </tr>
 -  </tbody>
 -</table>
